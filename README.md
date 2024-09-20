@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AydenPlaysOsu / Ángel Contreras
-- 👀 I’m interested in Music and Software development
-- 😄 Pronouns: He / Him
+- 🐺 I’m interested in Music and Software development
 - ⚡ Fun fact: Furry
 
 <!---
